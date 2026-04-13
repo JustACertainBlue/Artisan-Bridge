@@ -141,17 +141,3 @@ The system follows a **multi-layer architecture**:
 - Data analytics dashboard for tourism insights  
 
 ---
-
-## 📁 Project Structure
-artisan-bridge/
-│
-├── README.md
-├── docs/
-├── frontend/
-├── backend/
-├── database/
-├── diagrams/
-└── resources/
-
-## 📄 Documentation
-Full project documentation is available in:
