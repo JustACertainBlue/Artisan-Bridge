@@ -110,8 +110,8 @@ The system follows a **multi-layer architecture**:
 ---
 ## 📁 Repository Structure
 - [Architecture/](https://github.com/JustACertainBlue/Artisan-Bridge/tree/main/Architecture) – system design, diagrams, and technical flows
--[ Docs/](https://github.com/JustACertainBlue/Artisan-Bridge/tree/main/Docs) – project documentation and SRS
--[ UI.UX/](https://github.com/JustACertainBlue/Artisan-Bridge/tree/main/UI.UX) – user interface designs and user flows
+- [ Docs/](https://github.com/JustACertainBlue/Artisan-Bridge/tree/main/Docs) – project documentation and SRS
+- [ UI.UX/](https://github.com/JustACertainBlue/Artisan-Bridge/tree/main/UI.UX) – user interface designs and user flows
 
 ## 🧑‍💻 Tech Stack (Proposed)
 
